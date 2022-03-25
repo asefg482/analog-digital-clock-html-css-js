@@ -1,6 +1,6 @@
 # Analog & Digital Clock Using 
 ## HTML CSS JS
 
-##Screenshot
+## Screenshot
 
 ![Clock Using HTML CSS JS Screenshot](Clock.png)
