@@ -1,2 +1,6 @@
-# analog-digital-clock-html-css-js
-A Clock Maked With HTML CSS JAVASCRIPT
+# Analog & Digital Clock Using 
+## HTML CSS JS
+
+##Screenshot
+
+![Clock Using HTML CSS JS Screenshot](Clock.png)
